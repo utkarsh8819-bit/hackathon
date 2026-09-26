@@ -1,6 +1,0 @@
-source1_entity_id	candidate_entity_id	candidate_source	blocking_reasons
-S1-9001	S2-9101	S2	address_token_overlap,char_ngram,name_token_overlap,phonetic_name,postal_code
-S1-9001	S3-9202	S3	address_token_overlap,postal_code
-S1-9002	S2-9102	S2	address_token_overlap,char_ngram,name_token_overlap,phonetic_name,postal_code
-S1-9002	S3-9201	S3	address_token_overlap,name_token_overlap,phonetic_name,postal_code
-S1-9003	S2-9103	S2	address_token_overlap,char_ngram,name_token_overlap,phonetic_name,postal_code
